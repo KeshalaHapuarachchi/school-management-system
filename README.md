@@ -60,12 +60,6 @@ This project is licensed under the None. Feel free to use, modify, and distribut
 
 We would like to express our gratitude to the open-source community for their invaluable contributions and the various libraries, frameworks, and tools that made this project possible.
 
-![reports](https://github.com/Kesh17/School_Management_System/assets/105196447/7acb2455-3898-45c2-866d-c50cb5138e3f)
-
-![remove person](https://github.com/Kesh17/School_Management_System/assets/105196447/5e593672-c428-49f4-9583-f78a205b17d4)
-
-![update](https://github.com/Kesh17/School_Management_System/assets/105196447/ef15c0c6-4cd6-4e72-801f-51556b584c3b)
-
 
 *____________Happy coding and managing schools efficiently__________--!
 
